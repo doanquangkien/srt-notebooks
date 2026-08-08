@@ -1,4 +1,4 @@
-# SRT Notebooks — KIENDOANTTS
+# SRT Notebooks — KIENDOAN-Studio
 
 > **Colab notebooks chuyển phụ đề SRT thành giọng đọc AI bằng OmniVoice TTS.**
 > Public mirror của `doanquangkien/srt` (private). Push tự động lên GitHub → Colab load trực tiếp.

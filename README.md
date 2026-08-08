@@ -74,6 +74,14 @@ print(f'Created: {out}')
 
 Base URL: `https://raw.githubusercontent.com/doanquangkien/voice-notebooks/main/samples/`
 
+### Đã tạo
+
+| # | Giọng | Colab |
+|---|-------|-------|
+| 1 | Nam Trầm Ấm | https://colab.research.google.com/github/doanquangkien/srt-notebooks/blob/main/colab_srt-to-voice.ipynb |
+| 2 | Ngọc Huyền | https://colab.research.google.com/github/doanquangkien/srt-notebooks/blob/main/colab_srt-to-voice-ngoc-huyen.ipynb |
+| 3 | Thanh niên tự tin | https://colab.research.google.com/github/doanquangkien/srt-notebooks/blob/main/colab_srt-to-voice-thanh-nien-tu-tin.ipynb |
+
 ---
 
 ## Cấu trúc file
